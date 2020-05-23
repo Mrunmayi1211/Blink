@@ -60,7 +60,7 @@
         });
     };
 
-document.getElementById("demo").innerHTML = params.visualFeatures;
+document.getElementById("demo").innerHTML = example.description;
 </script>
 
 <h1>Analyze image:</h1>
