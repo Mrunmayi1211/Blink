@@ -19,9 +19,7 @@
 
         // Request parameters.
         var params = {
-            visualFeatures: "Description",
-            
-            
+            visualFeatures: "Description"    
         };
 
 	var example= params.visualFeatures;
